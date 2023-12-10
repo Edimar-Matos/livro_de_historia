@@ -13,7 +13,7 @@ body{
     left: 50%;
     width: 300px;
     height: 428px;
-    background: #fff;
+    background: white;
     transform-style: preserve-3d;
     transform: translate(-50%, -50%) perspective(2000px);
     box-shadow: inset 300px 0 50px rgba(0,0,0,-5), 0 20px 100px rgba(0,0,0,-5); 
@@ -25,14 +25,14 @@ h1{
     position: absolute;
     width: 100%;
     height: auto;
-    margin-top: 40%;
+    margin-top: 30%;
     text-align: center;
 }
 h5{
     position: absolute;
     width: 100%;
     height: auto;
-    margin-top: 90%;
+    margin-top: 95%;
     text-align: center;
 }
 
@@ -176,6 +176,221 @@ h5{
    
 
 }
+
+.detalhes5 h2{
+    position:absolute;
+    margin: 0;
+}
+.detalhes5 p{
+  font-size: 12px;
+}
+
+.detalhes5 img{
+    width: 100%;
+    height: 200px;
+    margin: auto ;
+    margin-top: 40px;
+}
+.card .detalhes5{
+    position: absolute;
+    top: 0;
+    left: 0;
+    box-sizing: border-box;
+    padding: 20px;
+    z-index: -1;
+   
+
+}
+
+
+.detalhes6 h2{
+    position:absolute;
+    margin: 0;
+}
+.detalhes6 p{
+  font-size: 12px;
+}
+
+.detalhes6 img{
+    width: 100%;
+    height: 200px;
+    margin: auto ;
+    margin-top: 40px;
+}
+.card .detalhes6{
+    position: absolute;
+    top: 0;
+    left: 0;
+    box-sizing: border-box;
+    padding: 20px;
+    z-index: -1;
+}
+
+.detalhes7 h2{
+    position:absolute;
+    margin: 0;
+}
+.detalhes7 p{
+  font-size: 12px;
+}
+
+.detalhes7 img{
+    width: 50%;
+    height: 100px;
+    margin: auto ;
+    margin-top: 30px;
+}
+.card .detalhes7{
+    position: absolute;
+    top: 0;
+    left: 0;
+    box-sizing: border-box;
+    padding: 20px;
+    z-index: -1;
+}
+
+
+.detalhes8 h2{
+    position:absolute;
+    margin: 0;
+}
+.detalhes8 p{
+  font-size: 12px;
+}
+
+.detalhes8 img{
+    width: 100%;
+    height: 180px;
+    margin: auto ;
+    margin-top: 70px;
+}
+.card .detalhes8{
+    position: absolute;
+    top: 0;
+    left: 0;
+    box-sizing: border-box;
+    padding: 10px;
+    z-index: -1;
+}
+
+.detalhes9 h2{
+    position:absolute;
+    margin: 0;
+}
+.detalhes9 p{
+  font-size: 12px;
+}
+
+.detalhes9 img{
+    width: 30%;
+    height: 100px;
+    margin: auto ;
+    margin-top: 40px;
+}
+.card .detalhes9{
+    position: absolute;
+    top: 0;
+    left: 0;
+    box-sizing: border-box;
+    padding: 10px;
+    z-index: -1;
+}
+
+
+.detalhes10 h2{
+    position:absolute;
+    margin: 0;
+}
+.detalhes10 p{
+  font-size: 12px;
+}
+
+.detalhes10 img{
+    width: 100%;
+    height: 200px;
+    margin: auto ;
+    margin-top: 40px;
+}
+.card .detalhes10{
+    position: absolute;
+    top: 0;
+    left: 0;
+    box-sizing: border-box;
+    padding: 10px;
+    z-index: -1;
+}
+
+.detalhes11 h2{
+    position:absolute;
+    margin: 0;
+}
+.detalhes11 p{
+  font-size: 12px;
+}
+
+.detalhes11 img{
+    width: 70%;
+    height: 130px;
+    margin: auto ;
+    margin-top: 30px;
+}
+.card .detalhes11{
+    position: absolute;
+    top: 0;
+    left: 0;
+    box-sizing: border-box;
+    padding: 10px;
+    z-index: -1;
+}
+
+.detalhes12 h2{
+    position:absolute;
+    margin: 0;
+}
+.detalhes12 p{
+  font-size: 12px;
+}
+
+.detalhes12 img{
+    width: 100%;
+    height: 200px;
+    margin: auto ;
+    margin-top: 40px;
+}
+.card .detalhes12{
+    position: absolute;
+    top: 0;
+    left: 0;
+    box-sizing: border-box;
+    padding: 10px;
+    z-index: -1;
+}
+
+.detalhes13 h2{
+    position:absolute;
+    margin: 0;
+}
+.detalhes13 p{
+  font-size: 80px;
+}
+
+.detalhes13 img{
+    width: 100%;
+    height: 200px;
+    margin: auto ;
+    margin-top: 90px;
+}
+.card .detalhes13{
+    position: absolute;
+    top: 0;
+    left: 0;
+    box-sizing: border-box;
+    padding: 10px;
+    z-index: -1;
+}
+
+
+
 .next{
     
     font-size: 1rem;
